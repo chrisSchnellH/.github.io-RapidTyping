@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/chrisSchnellH/.github.io-RapidTyping/static/css/main.c37f4eb3.css",
+    "main.js": "/chrisSchnellH/.github.io-RapidTyping/static/js/main.0f2a18ab.js",
+    "static/js/453.8ab44547.chunk.js": "/chrisSchnellH/.github.io-RapidTyping/static/js/453.8ab44547.chunk.js",
+    "index.html": "/chrisSchnellH/.github.io-RapidTyping/index.html",
+    "main.c37f4eb3.css.map": "/chrisSchnellH/.github.io-RapidTyping/static/css/main.c37f4eb3.css.map",
+    "main.0f2a18ab.js.map": "/chrisSchnellH/.github.io-RapidTyping/static/js/main.0f2a18ab.js.map",
+    "453.8ab44547.chunk.js.map": "/chrisSchnellH/.github.io-RapidTyping/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c37f4eb3.css",
+    "static/js/main.0f2a18ab.js"
+  ]
+}
